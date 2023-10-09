@@ -70,3 +70,11 @@ Above **Paula** and **Federica**
 ![Streams YY222 drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/b8f49100-1637-41bb-8deb-5194d3245c26)
 
 ##
+
+![factorial 4 drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/84e864ef-10d1-48a5-9aac-21b193a55518)
+
+##
+![Mire_Optique](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/ba77bd33-0f0b-46f6-8c68-096b80d1257d)
+
+##
+![triangle_cercle drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/242ff4a7-8f3d-4df2-881c-cff79db1f2cc)
