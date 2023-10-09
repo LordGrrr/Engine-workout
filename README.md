@@ -1,5 +1,7 @@
 ![265223652-86f56935-ad05-4e02-90fc-d3987bb3fe48](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/5e2adc60-3ab8-4858-a079-4e8196d525d8)  
-![265223655-fe2e7cc5-761d-42c5-aaf7-45a8724c6032](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/52fc16a3-aace-4e31-b6cf-aefe35c4563f)  
+![265223655-fe2e7cc5-761d-42c5-aaf7-45a8724c6032](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/52fc16a3-aace-4e31-b6cf-aefe35c4563f)
+![Lorentz_force_on_charged_particles_in_bubble_chamber_-_HD 6D 635_(12000265314) svg](https://github.com/LordGrrr/Engine-workout/assets/134517577/034c6472-344a-40a3-b066-4a1b9d2017ac) [Lorentz force](https://en.wikipedia.org/wiki/Lorentz_force)
+
  
 2 fields (_gravity_ and _magnetism_) overlapping for topology, 4 run-away trajectories to build structures and therefor interact with the 2 fields. 
 ```
