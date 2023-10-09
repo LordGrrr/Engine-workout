@@ -7,12 +7,12 @@
 ```
 
 Kinetic Topologies
-    ├─ Magnetism
+    ├─ Magnetism (F = q(E + v * B))
     │    ├─ ⚪▷◁⚫
     │    ├─ ⚫▷◁⚪
     │    ├─ ⚪◁▷⚪
     │    └─ ⚫◁▷⚫
-    ├─ Gravity
+    ├─ Gravity (F = G * (m1*m2)/r²)
     │    ├─ ⚪◁▷⚫
     │    ├─ ⚫◁▷⚪
     │    ├─ ⚪▷◁⚪
