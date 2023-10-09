@@ -5,6 +5,7 @@
  
 2 fields (_gravity_ and _magnetism_) overlapping for topology, 4 run-away trajectories to build structures and therefor interact with the 2 fields. 
 ```
+https://en.wikipedia.org/wiki/Vector_field
 
 Kinetic Topologies
     ├─ Magnetism (F = q(E + v * B))
