@@ -78,7 +78,8 @@ Above **Paula** and **Federica**
 ![Mire_Optique](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/ba77bd33-0f0b-46f6-8c68-096b80d1257d)
 
 ##
-![Decagon drawio](https://github.com/LordGrrr/Engine-workout/assets/134517577/9603cdae-64de-499f-a154-478547004364)
+![Decagon drawio](https://github.com/LordGrrr/Engine-workout/assets/134517577/6d2e9870-4995-4375-a7af-5acf116bc0eb)
+
 
 ##
 ![triangle_cercle drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/242ff4a7-8f3d-4df2-881c-cff79db1f2cc)
