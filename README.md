@@ -42,7 +42,7 @@ Kinetic Topologies
 パワー: [_"La mémoire défini l'Humanité et nul ne sait définir ce qu'est la mémoire."_](https://ja.wikipedia.org/wiki/GHOST_IN_THE_SHELL_/_%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
   
 [Street map view](https://maps.app.goo.gl/xEJqJTTiZY3WcvMn6)    
-![20231002_152406](https://github.com/LordGrrr/Engine-workout/assets/134517577/177368a5-ecca-4ca5-889f-0791b81642f7)
+![20231002_152406](https://github.com/LordGrrr/Engine-workout/assets/134517577/177368a5-ecca-4ca5-889f-0791b81642f7)  
 **Kwonledge + Action = Power**  
 Above **Paula** and **Federica**  
 
