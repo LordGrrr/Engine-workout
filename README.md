@@ -43,8 +43,7 @@ Kinetic Topologies
   
 [Street map view](https://maps.app.goo.gl/xEJqJTTiZY3WcvMn6)    
 ![20231002_152406](https://github.com/LordGrrr/Engine-workout/assets/134517577/177368a5-ecca-4ca5-889f-0791b81642f7)  
-**Kwonledge + Action = Power**  
-Above **Paula** and **Federica**  
+**Kwonledge + Action = Power**    
 
 # Robotics
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
